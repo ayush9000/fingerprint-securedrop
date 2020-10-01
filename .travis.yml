@@ -1,4 +1,4 @@
-sudo: required
+sudo: required a awesome project
 dist: trusty
 
 language: python
